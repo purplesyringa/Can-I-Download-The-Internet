@@ -1,0 +1,9 @@
+{
+  "name": "Can-I-Download-The-Internet",
+  "version": "1.0.0",
+  "description": "ZeroNet backuper",
+  "main": "index.js",
+  "repository": "https://github.com/imachug/Can-I-Download-The-Internet.git",
+  "author": "Ivanq <imachug@yandex.ru>",
+  "license": "MIT"
+}
