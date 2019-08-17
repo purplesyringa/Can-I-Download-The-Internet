@@ -5,5 +5,10 @@
   "main": "index.js",
   "repository": "https://github.com/imachug/Can-I-Download-The-Internet.git",
   "author": "Ivanq <imachug@yandex.ru>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@openzim/libzim": "^2.0.19",
+    "request": "^2.88.0",
+    "websocket": "^1.0.29"
+  }
 }
